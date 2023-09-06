@@ -5,7 +5,7 @@ I'm a self-taught and passionate FrontEnd developer from Ukraine. With an insati
 
 * 🌍  I'm based in the Netherlands
 * ✉️  You can contact me at [grudovavictoria@gmail.com](mailto:grudovavictoria@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Node.js
 
 ### Skills
 
