@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a self-taught and passionate FrontEnd developer from Ukraine. With an insatiable curiosity for coding I thrive on challenges and continuously seek out opportunities to learn and grow. Let's collaborate and build amazing web experiences together!
 
 * 🌍  I'm based in the Netherlands
-* ✉️  You can contact me at [grudovavictoria@gmail.com](mailto:grudovavictoria@gmail.com)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting websites
 
